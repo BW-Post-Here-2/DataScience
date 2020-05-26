@@ -40,7 +40,6 @@
 68. Amd 379,812
 70. OutOfTheLoop 1,677,020
 71. AmItheAsshole 1,845,034
-73. sex 1,514,650
 74. IdiotsInCars 1,715,798
 75. unpopularopinion 1,112,308
 76. TwoXChromosomes 12,672,572
@@ -50,12 +49,12 @@
 81. copypasta 613,371
 82. insaneparents 956,692
 83. soccer 1,943,437
+89. OldSchoolCool 14,434,777
 
 ------------------------
 --- TOP 50 ENDS HERE ---
 ------------------------
 
-89. OldSchoolCool 14,434,777
 90. europe 2,326,552
 91. pokemon 2,324,511
 92. SandersForPresident 508,549
