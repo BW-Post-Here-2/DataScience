@@ -32,7 +32,7 @@ post_title = []
 post_content = []
 
 for sub in subreddits:
-    posts = r.subreddit(sub).hot(limit=100)
+    posts = r.subreddit(sub).hot(limit=200)
     for post in posts:
         post_subreddits.append(post.subreddit)
         post_title.append(post.title)
