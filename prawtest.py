@@ -1,3 +1,5 @@
+# Co-written by Samuel Swank (DS14) and Josh Black-Star (DS14)
+
 import praw
 import pandas as pd
 
