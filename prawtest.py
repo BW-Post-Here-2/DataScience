@@ -2,7 +2,7 @@
 
 # TODO:
 # Force spreadsheet to include post ID for Joo Woon (and rest of web dev side)
-# Prediction output per post is tuple of ('Subreddit name' : probablility) eg.
+# Prediction output per post is tuple of ('Subreddit name' : probablility) eg. ('worldnews':0)
 
 import praw
 import pandas as pd
