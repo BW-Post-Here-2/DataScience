@@ -1,5 +1,9 @@
 # Co-written by Samuel Swank (DS14) and Josh Black-Star (DS14)
 
+# TODO:
+# Force spreadsheet to include post ID for Joo Woon (and rest of web dev side)
+# Prediction output per post is tuple of ('Subreddit name' : probablility) eg.
+
 import praw
 import pandas as pd
 
