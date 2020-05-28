@@ -9,10 +9,14 @@ reddit = praw.Reddit(client_id='xxxxxxx', client_secret='xxxxx', user_agent='red
 
 def reddit_to_csv(subreddit, filename, n_requests):
     """
-    The function 'reddit_to_csv' will take three arguments: 
-    1. the subreddit being scraped; 
-    2. the filename, or the name the csv file will be given; and 
-    3. the number of requests the user would like to make of reddit's API. 
+    arg:
+        The function 'reddit_to_csv' will take three arguments -
+        1. the subreddit being scraped; 
+        2. the filename, or the name the csv file will be given; and 
+        3. the number of requests the user would like to make of reddit's API.
+
+    returns:
+        dataframe of scrapped subreddit, post_title, post_paragraph
     """
     #Create an empty list to be used later in function:
     posts = []
@@ -84,7 +88,7 @@ for sub in subber:
     i += 1
 
 
-# List of saved csv files -- 
+# List of saved csv files -- not DRY code
 csv_file_list = ['scrapped_data0.csv', 'scrapped_data1.csv', 'scrapped_data2.csv', 'scrapped_data3.csv',
  'scrapped_data4.csv', 'scrapped_data5.csv', 'scrapped_data6.csv', 'scrapped_data7.csv', 
  'scrapped_data8.csv', 'scrapped_data9.csv','scrapped_data10.csv', 'scrapped_data11.csv', 
