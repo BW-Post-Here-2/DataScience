@@ -25,7 +25,11 @@ subreddits = ['Home', 'AskReddit', 'Coronavirus' , 'worldnews', 'politics', 'Cho
 'relationship_advice', 'news', 'discordapp', 'wallstreetbets', 'mildlyinteresting', 'interestingasfuck', 'Showerthoughts', 
 'Wellthatsucks', 'nba', 'anime', 'DnD', 'nextfuckinglevel', 'IAmA', 'WTF', 'buildapc', 'coolguides', 'oddlysatisfying', 'AskWomen', 
 'relationships', 'askscience', 'Amd', 'OutOfTheLoop', 'AmItheAsshole', 'IdiotsInCars', 'unpopularopinion', 'TwoXChromosomes', 'Piracy', 
-'Unexpected', 'television', 'copypasta', 'insaneparents', 'soccer', 'OldSchoolCool']
+'Unexpected', 'television', 'copypasta', 'insaneparents', 'soccer', 'OldSchoolCool', 'europe', 'pokemon', 'SandersForPresident', 'jailbreak',
+'trees', 'feedthebeast', 'TrueOffMyChest', 'techsupport', 'legaladvice', 'australia', 'apple', 'Fitness', 'investing', 'MMA', 'Cooking', 
+'sysadmin', 'MurderedByWords', 'mildlyinfuriating', 'SquaredCircle', 'offmychest', 'LifeProTips', 'nosleep', 'space', 'OurPresident', 'netflix', 
+'AskHistorians', 'MovieDetails', 'science', 'conspiracy', 'hiphopheads', 'changemyview', 'books', 'help', 'AskCulinary', 'FanTheories', 
+'tipofmytongue', 'UpliftingNews', 'TooAfraidToAsk', 'PolicalHumor', 'technology']
 
 post_subreddits = []
 post_title = []

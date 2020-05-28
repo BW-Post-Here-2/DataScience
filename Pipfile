@@ -10,6 +10,13 @@ ipykernel = "*"
 praw = "*"
 pandas = "*"
 python-dotenv = "*"
+scikit-learn = "*"
+numpy = "*"
+gunicorn = "*"
+flask = "*"
+flask-cors = "*"
+nltk = "*"
+pickleshare = "*"
 
 [requires]
 python_version = "3.7"
