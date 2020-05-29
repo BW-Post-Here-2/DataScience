@@ -1,3 +1,5 @@
+
+## Scrapper and Joblib model included 
 ## Top 125 Subreddits, omitting stuff like r/pics, r/videos and any other media heavy subreddits. Could edit further
 
 1. Home 12,042
