@@ -80,6 +80,7 @@ def create_app():
         strang = "Hello birthday handsome Joo Woon"
         return strang
         
+    print("App built.")
     return app
 
 

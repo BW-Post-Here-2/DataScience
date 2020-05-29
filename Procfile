@@ -1,1 +1,1 @@
-web: gunicorn reddit_app:app
+web: gunicorn web_app:reddit_app
