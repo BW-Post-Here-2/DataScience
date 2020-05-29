@@ -1,1 +1,1 @@
-web: gunicorn reddit_app.py:app
+web: gunicorn reddit_app:app
