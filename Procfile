@@ -1,1 +1,1 @@
-web: gunicorn reddit_app:app --timeout 1200
+web: gunicorn reddit_app:app

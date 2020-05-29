@@ -79,6 +79,8 @@ def create_app():
     def base():
         strang = "Hello birthday handsome Joo Woon"
         return strang
+        
+    return app
 
 
 if __name__ == "__main__":
