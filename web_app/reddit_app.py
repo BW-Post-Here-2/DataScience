@@ -70,7 +70,8 @@ def create_app():
         content = "This is a Reddit post."
         post = {"title" : title, "content" : content}
 
-        url = "http://127.0.0.1:5000/predict.json"
+        # url = "http://127.0.0.1:5000/predict.json"
+        url = "https:/bubbling-brook.herokuapp.com/predict.json"
 
         req = requests.post(url, json=post)
         return req.text
