@@ -108,3 +108,8 @@ def test():
 
     req = requests.post(url, json=post)
     return req.text
+
+@app.route("/")
+def base():
+    strang = "Hello birthday handsome Joo Woon"
+    return strang
